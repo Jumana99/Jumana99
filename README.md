@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - :zap: Fun fact: ...
 -->
 <h1>About Me :pushpin:</h1>
-- :wave: I am Jumana Mohammad
+- :wave: I am Jumana Mohammad<br />
 - :computer: I am Computer Engineering graduated from Birzeit University 
 <br />
 <h2 align="center">Quick Overview :chart_with_upwards_trend:</h2>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <h2 align="center">Let's Connect :sunglasses:</h2>
 <p align="center">
   <a href = "mailto:jumanamohammad18@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
-  <a href = "https://www.linkedin.com/in/jumana-mohammad-3aba551b2?trk=people-guest_people_search-card"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30>
+  <a href = "https://www.linkedin.com/in/jumana-mohammad-3aba551b2?trk=people-guest_people_search-card"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 30>
   </a>
 </p>
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)-->
