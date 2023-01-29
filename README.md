@@ -37,4 +37,5 @@ Here are some ideas to get you started:
   <a href = "mailto:jumanamohammad18@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
   <a href = "https://www.linkedin.com/in/jumana-mohammad-3aba551b2?trk=people-guest_people_search-card"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
 </p>
+--!>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
